@@ -43,5 +43,5 @@ QnA Maker: QnA Maker is a cloud-based Natural Language Processing (NLP) service 
 
 ### Project Demo URL:
 
-https://red-meadow-0f564dd10.1.azurestaticapps.net 
+https://ambitious-flower-0855c7410.1.azurestaticapps.net
 
