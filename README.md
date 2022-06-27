@@ -1,6 +1,6 @@
 # MyFRTJune2022
 
-### Demo  Scrrenshots
+### Demo  Screenshots
 
 ![image](https://user-images.githubusercontent.com/100182800/175972271-9ba0c1c4-465a-4bf4-abeb-1e9d13ff2197.png)
 
